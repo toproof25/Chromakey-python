@@ -1,12 +1,12 @@
 # Chromakey-python
 
 ### 디지털 영상처리 (Digital image processing)
-&npsh; 언어 : Python
+언어 : Python
   
-  라이브러리 
-  - numpy
-  - openCv2
-  - mediapipe
+라이브러리 
+- numpy
+- openCv2
+- mediapipe
 
 ### 크로마키
 두 영상을 일부분을 적절하게 제거하여 합치는 영상 합성 기술
