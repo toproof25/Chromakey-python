@@ -24,7 +24,7 @@
 - 화면 밝기 조절
 - 얼굴 추적이 활성화 상태일 때 타원 크기 조절
 
-![image](https://github.com/toproof25/Chromakey-python/assets/41888060/079f318a-6205-4119-992f-1ac5b2ccf26f)
+<img width="298" alt="image" src="https://github.com/toproof25/Chromakey-python/assets/41888060/1d77df0d-fd04-458b-982d-09228fc09bd1">
 
 ### [chromakey Window]
 - 실제 영상이 합성되어 나타나는 윈도우
