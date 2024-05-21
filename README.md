@@ -15,12 +15,14 @@
 ### [RGB range Trackbar Window]
 - 제거할 RGB값을 조절
 - 설정한 RGB값에서 -, +범위를 조절
+<br/> 
 ![image](https://github.com/toproof25/Chromakey-python/assets/41888060/53a55af9-85b7-4aa8-adbc-cb7ebde0c57e)
 
 
 ### [Edit Trackbar Window]
 - 화면 밝기 조절
-- 얼굴 추적이 활성화 상태일 때 타원 크기 조
+- 얼굴 추적이 활성화 상태일 때 타원 크기 조절
+<br/> 
 ![image](https://github.com/toproof25/Chromakey-python/assets/41888060/079f318a-6205-4119-992f-1ac5b2ccf26f)
 
 ### [chromakey Window]
